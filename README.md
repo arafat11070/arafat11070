@@ -21,7 +21,7 @@ Skills:  PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 📫 How to reach me **yeasirarafat50698@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
+- 📄 All About Me:https://www.facebook.com/mohammad.yeasir.arafat.2024/
 
 <h3 align="left">Connect with me:</h3>
 
