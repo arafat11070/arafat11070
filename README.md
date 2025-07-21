@@ -57,7 +57,7 @@ Skills:  PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 ## Best Repo -
 
-[![arafat11070](https://github-readme-stats.vercel.app/api/pin/?username=arafat11070&repo=&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/arafat11070/arafat11070)
+[![arafat11070](https://github-readme-stats.vercel.app/api/pin/?username=arafat11070&repo=arafat11070&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/arafat11070/arafat11070)
 
 
 <p align="left">
